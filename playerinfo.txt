@@ -1,0 +1,95 @@
+Quarterback
+Drew Brees
+209
+39
+45
+37
+439
+0
+0
+3
+0
+0
+1
+Quarterback
+Matthew Stafford
+220.0
+30
+46
+27
+286
+1
+6
+1
+4
+0
+0
+Defense
+Anthony Hitchens
+235.0
+26
+7
+0
+0
+Defense
+Fred Warner
+226.0
+21
+11
+0
+0
+Defense
+Deion Jones
+222
+23
+4
+0.0
+1
+Defense
+T. J. Watt
+252
+23
+8
+4.0
+0
+Receiver
+Jared Cook
+200.0
+24
+9
+180
+0
+0
+0
+0
+Receiver
+Michael Thomas
+212
+25
+16
+180
+0
+0
+1
+1
+Receiver
+James Conner
+233
+23
+5
+57
+31
+135
+2
+1
+Receiver
+Lamar Miller
+220
+27
+1
+11
+20
+98
+0
+0
+
